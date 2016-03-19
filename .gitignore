@@ -11,3 +11,6 @@ npm-debug.log
 bower_components
 report
 .DS_Store
+
+.idea
+._.DS_Store
